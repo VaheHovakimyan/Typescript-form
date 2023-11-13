@@ -1,0 +1,16 @@
+.form_inputs_div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 70%;
+    width: 70%;
+
+    .form_input {
+        width: 100%;
+        height: 50px;
+        border-radius: 10px;
+        outline: none;
+        padding-left: 20px;
+    }
+}
